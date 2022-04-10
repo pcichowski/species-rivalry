@@ -3,7 +3,8 @@
 ## Project
 This project was created for Object Oriented Programming course on the 3rd semester of CS.
 
-The task at hand was to use OOP to create a simulated world with animals and plants, each having different behaviours and abilities.
+The task at hand was to use C++ OOP to create a simulated world with animals and plants, each having different behaviours and abilities,
+while following all OOP paradigms.
 
 The world is lively and dynamic, each round animals and plants can reproduce or fight with each other.
 There is a simple system of strength and initiative, determining which entities are to move and which win when in combat.
