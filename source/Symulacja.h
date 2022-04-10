@@ -1,17 +1,17 @@
 #pragma once
 #include "Swiat.h"
 #include "Organizm.h"
-#include "Wilk.h"
-#include "Owca.h"
-#include "Czlowiek.h"
-#include "Lis.h"
-#include "Zolw.h"
-#include "Antylopa.h"
-#include "Trawa.h"
-#include "Mlecz.h"
-#include "Guarana.h"
-#include "WilczeJagody.h"
-#include "BarszczSosnowskiego.h"
+#include "animals/Wilk.h"
+#include "animals/Owca.h"
+#include "animals/Czlowiek.h"
+#include "animals/Lis.h"
+#include "animals/Zolw.h"
+#include "animals/Antylopa.h"
+#include "plants/Trawa.h"
+#include "plants/Mlecz.h"
+#include "plants/Guarana.h"
+#include "plants/WilczeJagody.h"
+#include "plants/BarszczSosnowskiego.h"
 
 class Symulacja {
 	int rozm_x, rozm_y;

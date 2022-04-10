@@ -1,8 +1,8 @@
 #include "Organizm.h"
 #include <iostream>
-#include "Owca.h"
-#include "Wilk.h"
-#include "Czlowiek.h"
+#include "animals/Owca.h"
+#include "animals/Wilk.h"
+#include "animals/Czlowiek.h"
 
 void Organizm::set_swiat(Swiat* swiat) {
 	this->swiat = swiat;

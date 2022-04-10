@@ -1,5 +1,5 @@
 #pragma once
-#include "Organizm.h"
+#include "../Organizm.h"
 class Roslina : public Organizm {
 public:
 	virtual void rozprzestrzeniaj();

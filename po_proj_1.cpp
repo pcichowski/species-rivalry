@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "Symulacja.h"
+#include "source/Symulacja.h"
 
 int main() {
 

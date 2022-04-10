@@ -1,14 +1,9 @@
 #pragma once
-#include "Czlowiek.h"
-
+#include "./animals/Czlowiek.h"
 
 class Organizm;
 
 class Input {
-
-	
-
-	//Organizm* czlowiek;
 
 public:
 
