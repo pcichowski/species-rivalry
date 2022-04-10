@@ -1,13 +1,13 @@
 # Species Rivalry
 
 ## Project
-This project was created for Object Oriented Programming course on the 3rd semester of CS.
+This project was created for Object Oriented Programming course on the 2nd semester of CS.
 
 The task at hand was to use C++ OOP to create a simulated world with animals and plants, each having different behaviours and abilities,
 while following all OOP paradigms.
 
-The world is lively and dynamic, each round animals and plants can reproduce or fight with each other.
-There is a simple system of strength and initiative, determining which entities are to move and which win when in combat.
+The world is lively and dynamic, each round animals can fight with each other or reproduce and plants can spread around.
+There is a simple system of strength and initiative, determining which entities are first to move and which of them should win when in combat.
 
 The player can move, attack or activate a special ability, which grants him invincibility for 3 rounds.
 
